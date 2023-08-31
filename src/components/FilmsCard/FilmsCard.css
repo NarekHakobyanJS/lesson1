@@ -1,0 +1,20 @@
+.filmCard{
+    width: 340px;
+    border-radius: 10px;
+    border: 2px solid black;
+    text-align: center;
+    overflow: hidden;
+    padding: 15px;
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+}
+
+.filmCard img{
+    width: 100%;
+}
+
+.filmCard h4{
+    font-size: 18px;
+    margin-bottom: 10px;
+}

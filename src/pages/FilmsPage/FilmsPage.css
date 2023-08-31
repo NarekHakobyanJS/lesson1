@@ -1,0 +1,66 @@
+.page_par1{
+    border: 7px solid black;
+    border-radius: 10px;
+    width: 1190px;
+    height: 533px;
+    margin: 40px;
+    position: relative;
+    overflow: hidden;
+    background-color: black;
+    color: wheat;
+}
+
+
+
+.page_par2{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 1060px;
+}
+
+.page_par3{
+    display: flex;
+    flex-direction: column;
+    font-family: Georgia, serif;
+}
+
+.name{
+    font-size: 40px;
+    margin: 50px 0px;
+}
+
+.overview{
+    max-width: 720px;
+    margin: 10px 0px;
+    font-size: 20px;
+}
+
+
+
+.date{
+    font-size: 25px ;
+}
+
+.nav1{
+    border-bottom: 4px solid black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 50px;
+    list-style: none;
+    background-color: black;
+}
+.nav1 .link{
+    text-decoration: none;
+    font-size: 40px;
+    color: red;
+    border-radius: 5px;
+}
+.nav1 .link:hover{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 5px;
+}
+

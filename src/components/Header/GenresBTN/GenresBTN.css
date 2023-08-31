@@ -1,0 +1,9 @@
+.genreBTN{
+    width: 350px;
+    padding: 8px;
+    border-radius: 30px;
+    margin-right: 15px;
+    background: greenyellow;
+    border: none;
+    cursor: pointer;
+}

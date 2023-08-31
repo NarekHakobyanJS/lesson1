@@ -1,0 +1,24 @@
+.search{
+    width: 350px;
+    height: 500px;
+    background: white;
+    position: absolute;
+    top : 25px;
+    left : -200px;
+    overflow-y: scroll;
+}
+
+a {
+    text-decoration: none;
+    color : black;
+}
+
+.search-film{
+    display: flex;
+    align-items: center;
+    padding: 8px;
+}
+
+.search-film img {
+    width: 80px;
+}

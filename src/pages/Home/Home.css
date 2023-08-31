@@ -1,0 +1,18 @@
+.home{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.morebtn{
+    width: 240px;
+    height: 45px;
+    border: none;
+    background: gold;
+    display: block;
+    margin: 20px auto;
+    border-radius: 30px;
+    font-size: 25px;
+    cursor: pointer;
+}
